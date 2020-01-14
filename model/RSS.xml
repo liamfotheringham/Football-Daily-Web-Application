@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Football Daily Home Page</title>
+        <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/index.php</link>
+        <description>All the latest football news</description>
+        <item>
+            <title>UPDATE</title>
+            <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=25</link>
+            <description>Two Liverpool midfield stars ruled out of Arsenal game, but there's good news</description>
+            <author>LiamFoth</author>
+            <publish>2018-11-02</publish>
+            <image>
+                <url>../view/Pictures/Articles/5a3e20b8140033a5a2000010.jpg</url>
+                <title>FootballDaily.com</title>
+                <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=25</link>
+            </image>
+        </item>
+        <item>
+            <title>ILL-JUDGED</title>
+            <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=24</link>
+            <description>Bayern Munich defender Rafinha apologises for ‘Arab Bomber’ Halloween costume</description>
+            <author>LiamFoth</author>
+            <publish>2018-11-02</publish>
+            <image>
+                <url>../view/Pictures/Articles/5a3e20b8140033a5a2000010.jpg</url>
+                <title>FootballDaily.com</title>
+                <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=24</link>
+            </image>
+        </item>
+        <item>
+            <title>NOT AGAIN</title>
+            <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=23</link>
+            <description>Kevin De Bruyne will miss Manchester derby as City confirm he will be out for up to six weeks with fresh knee injury</description>
+            <author>LiamFoth</author>
+            <publish>2018-11-02</publish>
+            <image>
+                <url>../view/Pictures/Articles/Rafinha1.jpg</url>
+                <title>W3Schools.com</title>
+                <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=23</link>
+            </image>
+        </item>
+        <item>
+            <title>MESSI INJURED</title>
+            <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=19</link>
+            <description>Lionel Messi leaves the pitch in agony after appearing to suffer broken bone</description>
+            <author>LiamFoth</author>
+            <publish>2018-10-20</publish>
+            <image>
+                <url>../view/Pictures/Articles/de-bruyne.jpg</url>
+                <title>W3Schools.com</title>
+                <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=19</link>
+            </image>
+        </item>
+        <item>
+            <title>CHEEK OF IT</title>
+            <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=17</link>
+            <description>Chelsea star to ask Maurizio Sarri to leave in January, with Arsenal interested</description>
+            <author>LiamFoth</author>
+            <publish>2018-10-19</publish>
+            <image>
+                <url>https://images.performgroup.com/di/library/GOAL/4c/7b/lionel-messi-hurt-barcelona-sevilla_zfitn753d8uc1lbye8e7qbfr3.jpg?t=-1833225546&amp;quality=90&amp;h=300</url>
+                <title>W3Schools.com</title>
+                <link>https://mayar.abertay.ac.uk/~1601596/DWD2/view/ViewPost.php?id=17</link>
+            </image>
+        </item>
+    </channel>
+
+</rss>
